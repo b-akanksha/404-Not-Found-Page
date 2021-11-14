@@ -34,9 +34,9 @@
 ## Overview
 
 ![Screenshot from 2021-11-14 20-17-02](https://user-images.githubusercontent.com/33523276/141686132-626b906b-2c90-40c2-a310-7ef3a14b9729.png)
-![Screenshot from 2021-11-14 20-17-38](https://user-images.githubusercontent.com/33523276/141686134-eaaa50b0-48d2-4dc2-93bc-2de11dc9e24b.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<div align="center">
+   ![Screenshot from 2021-11-14 20-22-40](https://user-images.githubusercontent.com/33523276/141686288-24ec2c4f-ddd6-40ee-b79c-35c94708003a.png)
+</div>
 
 - <a href="https://b-akanksha.github.io/404-Not-Found-Page.github.io/">
       Demo
